@@ -1,4 +1,4 @@
-local loopWidth = 1883
+local loopWidth = 1921
 
 local bgClearFade = 0
 
