@@ -1,4 +1,4 @@
-local loopWidth = 492
+local loopWidth = 491
 local loopHeight = 231
 
 local bgScrollX = 0
@@ -68,7 +68,7 @@ end
 function update()
     if playerCount <= 2 then
         bgScrollX = bgScrollX - (59 * deltaTime);
-        bgScrollY = bgScrollY + (14 * deltaTime);
+        bgScrollY = bgScrollY + (0 * deltaTime);
         bg3rdAnime = bg3rdAnime + (300 * deltaTime);
     
         for player = 0, playerCount - 1 do
