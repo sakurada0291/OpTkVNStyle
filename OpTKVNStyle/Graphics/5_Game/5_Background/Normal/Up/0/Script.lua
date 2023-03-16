@@ -1,5 +1,5 @@
 local loopWidth = 491
-local loopHeight = 281
+local loopHeight = 210
 
 local bgScrollX = 0
 local bgScrollX_3rd = 0
