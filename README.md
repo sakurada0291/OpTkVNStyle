@@ -16,8 +16,11 @@ This skin aims itself to be open for personalization as assets/materials are fre
 **NON GOALS (目標にならないこと)**
 - Copying assets from branded visual novels
 
-##Q＆A
+## Q＆A
 **Q1. My skin says "An error occured".**
+
 A: Install any third-party file managing applications such as WinRAR or 7zip. You can extract the skin in a convenient way.
+
 **Q2. My simulator crashes if I finished extracting the skin.**
+
 A: You are using old versions of OpenTaiko (ex. 0.5.4, 0.4.0, etc) as this skin is intended for OpenTaiko 0.6.0.
