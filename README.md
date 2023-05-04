@@ -9,12 +9,12 @@ This skin aims itself to be open for personalization as assets/materials are fre
 
 ## Goals and Non-goals
 **GOALS**
-- Customization by contributing original assets
-- Optimizations
+- Customization by contributing original assets (描いたオリジナルテキスチャーを提案・貢献すること)
+- Optimizations such as fixes (修正や改善すること 例：座標修正)
 -
 
 **NON GOALS**
-- Copying assets from branded visual novels
+- Copying assets from branded visual novels (版権テキスチャーを共有すること)
 
 ## Q＆A
 **Q1. My skin says "An error occured".**
