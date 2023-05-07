@@ -1,3 +1,5 @@
+![The logo of the OpenTaiko's skin, VNStyle, which depicts a rotated sakura flower and the text written VNstyle in rainbow gradients and some Japanese text, saying "ビジュアルノベルスタイル" then "Powered by OpenTaiko" below.](https://cdn.discordapp.com/attachments/1066587110129279016/1104570614091632660/fixedlogo.png)
+
 # OpTkVNStyle
 
 ## What's "OpTkVNStyle", anyway?
@@ -11,7 +13,6 @@ This skin aims itself to be open for personalization as assets/materials are fre
 **GOALS**
 - Customization by contributing original assets (描いたオリジナルテキスチャーを提案・貢献すること)
 - Optimizations such as fixes (修正や改善すること 例：座標修正)
--
 
 **NON GOALS**
 - Copying assets from branded visual novels (版権テキスチャーを共有すること)
