@@ -2,9 +2,9 @@
 
 # OpTkVNStyle
 
-## What's "OpTkVNStyle", anyway?
-OpTkVNSTYle, or OpenTaiko VN Style is the upcoming skin that focuses on cute and simplistic theme influenced from every visual novels' user interface and background.
-This skin aims itself to be open for personalization as assets/materials are free to modify, and contribution if any volunteers share their original assets in order to keep this skin "open-source".
+## What is "VNStyle", anyway?
+VNStyle, or "Visual Novel Style" is the upcoming skin that focuses on cute and simplistic theme influenced from every visual novels' user interface and background, which works for OpenTaiko.
+This skin aims itself to be open for personalization as assets/materials are free to modify, and contribution are always welcome for everyone if anyone is willing to share their original assets in order to make improvements. Hence, it will be open-source as always.
 
 ## Preface
 - Before using this skin, remember to have **YOUR OWN RESPONSIBILITY** when installing this skin to OpenTaiko. We will not provide any support that has been already answered in FAQs.
