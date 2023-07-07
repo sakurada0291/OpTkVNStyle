@@ -6,11 +6,11 @@ Before using :
 
 ; フォントレンダリングに使用するフォント名
 ; Font name used for font rendering.
-FontName=Stick
+FontName=RocknRoll One
 
 ; Boxの説明文のフォントレンダリングに使用するフォント名
 ; Font name used for font rendering.
-BoxFontName=Stick
+BoxFontName=RocknRoll One
 
 ; Use " マキナス 4 Square " if you want to use the font used on the skin assets (but letters are wider and more blocky on it)
 ; Feel free to use only one of those fonts if you don't like one of them (both are blocky, the second one is more standard for English), Kaisoutai contains less kanji than Makinas.
@@ -18,14 +18,16 @@ BoxFontName=Stick
 
 Credits : 
 
-- Font : https://fonts.google.com/specimen/Stick
+- Font : https://fonts.google.com/specimen/RocknRoll+One?query=rocknroll
 
 Menu SFX : 
 
 - Hitrison - https://hitrison.itch.io/menu-sfx-pack
+- 効果音ラボ - https://soundeffect-lab.info/sound/button/
 
 In-Game textures :
 
 - TJAPlayer3 Default skin
-- Minchirie (https://min-chi.material.jp/category/fm/bg_c/)
+- BGs by Minchirie (https://min-chi.material.jp/category/fm/bg_c/)
 - Sakura assets (https://chicodeza.com/freeitems/sakura-illust.html)
+- Fireworks - (https://stockmaterial.net/)
