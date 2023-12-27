@@ -18,7 +18,7 @@ This skin aims itself to be open for personalization as assets/materials are fre
 - Copying assets from branded visual novels (版権テキスチャーを共有すること)
 
 ## Q＆A
-**Q1. My skin says "An error occured".**
+**Q1. My skin says "An error occured" in File Explorer.**
 
 A: Install any third-party file managing applications such as WinRAR or 7zip. You can extract the skin in a convenient way.
 
