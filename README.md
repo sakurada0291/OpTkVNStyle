@@ -1,4 +1,4 @@
-![The logo of the OpenTaiko's skin, VNStyle, which depicts a rotated sakura flower and the text written VNstyle in rainbow gradients and some Japanese text, saying "ビジュアルノベルスタイル" then "Powered by OpenTaiko" below.](https://cdn.discordapp.com/attachments/1066587110129279016/1104570614091632660/fixedlogo.png)
+![The logo of the OpenTaiko's skin, VNStyle, which depicts a rotated sakura flower and the text written VNstyle in rainbow gradients and some Japanese text, saying "ビジュアルノベルスタイル" then "Powered by OpenTaiko" below.](https://media.misskeyusercontent.jp/io/23e51cac-8b36-4f74-9052-b72cc6beb65d.png)
 
 # OpTkVNStyle
 
